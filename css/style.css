@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: rgb(81, 7, 255);
+    width: 100%;
+    padding: 10px 0;
+}
+.pc img {
+    width: 330px;
+    height: 330px;
+}
+
+.DT img {
+    width: 330px;
+    height: 330px;
+}
+
+.Laptop img {
+    width: 330px;
+    height: 330px;
+}
+
+.dt1 img {
+    width: 330px;
+    height: 330px;
+}
+
+.dt2 img {
+    width: 330px;
+    height: 330px;
+}
+
+.dt3 img {
+    width: 330px;
+    height: 330px;
+}
+
+.latop1 img {
+    width: 330px;
+    height: 330px;
+}
+
+.latop2 img {
+    width: 330px;
+    height: 330px;
+}
+
+.latop3 img {
+    width: 330px;
+    height: 330px;
+}
+
+.lk img {
+    width: 330px;
+    height: 330px;
+}
+
+.lk1 img {
+    width: 330px;
+    height: 330px;
+}
+
+.lk2 img {
+    width: 330px;
+    height: 330px;
+}
+
+.lk3 img {
+    width: 330px;
+    height: 330px;
+}
+
+.lk4 img {
+    width: 330px;
+    height: 330px;
+}
+table{
+    width: 100%;
+    margin-top: 15px;
+}
+.Navigation{
+    display: block;
+    background-color: rgb(180, 220, 240);
+    padding: 10px;
+}
+footer{
+    background-color: rgb(123, 66, 66);
+    padding: 15px;
+}
+footer h3{
+    color: yellow;
+}
